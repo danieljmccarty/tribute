@@ -1,0 +1,7 @@
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  background-position: top;
+  border-radius: 50%;
+}
