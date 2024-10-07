@@ -5,3 +5,9 @@
   background-position: top;
   border-radius: 50%;
 }
+body {
+  text-align: center;
+  background-color: red;
+  font-family: "Comic Sans MS";
+  color:yellow;
+}
